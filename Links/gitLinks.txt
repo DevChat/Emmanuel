@@ -1,0 +1,6 @@
+Git-specific books:
+	http://progit.org/
+
+General Version Control:
+	http://www.ericsink.com/vcbe/index.html
+
