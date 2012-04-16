@@ -1,3 +1,0 @@
-I propose a step into story dev with http://browserquest.mozilla.org/
-
-Their github repo is available for forking, here https://github.com/mozilla/BrowserQuest
